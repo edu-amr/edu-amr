@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img style="width: 1000px; /* width of container */
+    height: 200px; /* height of container */
+    object-fit: cover; src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
