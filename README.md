@@ -22,7 +22,7 @@
 
 
 ## Meu conjunto de habilidades
-<table><tr><td valign="top" width="33%">
+<table aling="center"><tr><td valign="top" width="33%">
 
 
 
