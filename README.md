@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img style="height: 300px; width: 900px"src="https://forum.atelevisao.com/uploads/monthly_2016_12/tumblr_inline_nxjvtmGeWX1tflipi_500.gif.a56caa292eefb07b5f9987b9c7951f05.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Olá eu me chamo Eduardo 👨‍💻, estudante de Sistemas Para Internet na Universidade do Vale do Itajaí (UNIVALI) 🚀</div>  
+### <div align="center">Olá eu me chamo Eduardo 👨‍💻, Atualmente estou fazendo o curso tecnólogo de Sistemas Para Internet pela Universidade do Vale do Itajaí (2021).</div>  
   
 
 - 🔭 Atualmente estudando desenvolvimento Web  
