@@ -54,8 +54,10 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=eduardo-amaro-maciel&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" align="center" /></div>
 
+<div align="center" >
+  <img height="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-amaro-maciel&layout=compact&langs_count=7&theme=tokyonight"/> 
+</div>
 <br/>  
 
 <div align="center">
