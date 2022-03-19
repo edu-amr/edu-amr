@@ -60,10 +60,6 @@
 </div>
 <br/>  
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardo-amaro-maciel&&style=flat-square" align="center" />
-</div>  
-
 <br/> 
 
 ----
