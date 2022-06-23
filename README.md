@@ -56,7 +56,7 @@
 ## Github Stats  
 
 <div align="center" >
-  <img height="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-amaro-maciel&layout=compact&langs_count=7&theme=tokyonight"/> 
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-amaro-maciel&hide_border=true&layout=compact" align="center" /></div>  
 </div>
 <br/>  
 
