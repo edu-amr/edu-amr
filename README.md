@@ -21,7 +21,7 @@
 <br/>  
 
 
-## Meu site no Github-pages
+## Meu portfólio no Github-pages
 - link: https://eduardo-amaro-maciel.github.io/Port/
 
 ## Meu conjunto de habilidades 
