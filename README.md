@@ -16,13 +16,11 @@
   
 
 - ⚡ Curiosidade engraçada: Se eu estiver com meu fone de ouvido, não se importe em me chamar, eu não mordo   
-  
+
+- 🖥️ Meu portfólio no Github-pages, link: https://eduardo-amaro-maciel.github.io/Port/
 
 <br/>  
 
-
-## Meu portfólio no Github-pages
-- link: https://eduardo-amaro-maciel.github.io/Port/
 
 ## Meu conjunto de habilidades 
 <div align="center">
