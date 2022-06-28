@@ -1,7 +1,4 @@
-<div align="center">
-  <img style="height: 300px; width: 900px"src="https://forum.atelevisao.com/uploads/monthly_2016_12/tumblr_inline_nxjvtmGeWX1tflipi_500.gif.a56caa292eefb07b5f9987b9c7951f05.gif" align="center" style="width: 100%" />
-</div>  
-  
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 ### <div align="center">Olá eu me chamo Eduardo 👨‍💻, Atualmente estou fazendo o curso tecnólogo de Sistemas Para Internet pela Universidade do Vale do Itajaí (2021).</div>  
   
