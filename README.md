@@ -144,7 +144,7 @@
     <img 
         style="margin: 10px" 
         width="50px" 
-        src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png"
+        src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig"
         alt="mysql"
     >
     <img 
