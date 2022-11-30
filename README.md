@@ -6,13 +6,13 @@
 - 🔭 Atualmente estudando desenvolvimento Web  
   
 
-- 🌱 No momento aprendendo JavaScript e NodeJS  
+- 🌱 No momento aprendendo React.js e Next.js  
   
 
 - 🧩 Adoro ajudar e resolver problemas independentes de quais sejam  
   
 
-- ⚡ Curiosidade engraçada: Se eu estiver com meu fone de ouvido, não se importe em me chamar, eu não mordo   
+- ⚡ Curiosidade: Se eu estiver com meu fone de ouvido, não se importe em me chamar, estarei disposto a sanar suas dúvidas 
 
 - 🖥️ Meu portfólio no Github-pages, link: https://eduardo-amaro-maciel.github.io/Meu-Portfolio/
 
