@@ -10,13 +10,6 @@
   
 
 - 🧩 Adoro ajudar e resolver problemas independentes de quais sejam  
-  
-
-- ⚡ Curiosidade: Se eu estiver com meu fone de ouvido, não se importe em me chamar, estarei disposto a sanar suas dúvidas 
-
-- 🖥️ Meu portfólio no Github-pages, link: https://eduardo-amaro-maciel.github.io/Meu-Portfolio/
-
-- 👉 Cheque meu GitHub City: https://honzaap.github.io/GithubCity/?name=eduardo-amaro-maciel&year=2022
 
 
 ## Meu conjunto de habilidades 
