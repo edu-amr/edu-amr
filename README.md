@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estudando desenvolvimento Web  
   
-
+ 
 - 🌱 No momento aprendendo React.js e Next.js  
   
 
