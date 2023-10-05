@@ -3,13 +3,13 @@
 ### <div align="center">Olá eu me chamo Eduardo 👨‍💻, Atualmente estou fazendo o curso tecnólogo de Sistemas Para Internet pela Universidade do Vale do Itajaí (2021).</div>  
   
 
-- 🔭 Atualmente estudando desenvolvimento Web  
+- 🔭 Desenvolvedor Full-stack
   
  
-- 🌱 No momento aprendendo React.js e Next.js  
+- 🌱 Constante aprendizado 
   
 
-- 🧩 Adoro ajudar e resolver problemas independentes de quais sejam  
+- 🧩 Adoro ajudar e resolver problemas 
 
 
 ## Meu conjunto de habilidades 
