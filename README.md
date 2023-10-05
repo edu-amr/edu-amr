@@ -3,7 +3,7 @@
 ### <div align="center">Olá eu me chamo Eduardo 👨‍💻, Atualmente estou fazendo o curso tecnólogo de Sistemas Para Internet pela Universidade do Vale do Itajaí (2021).</div>  
   
 
-- 🔭 Desenvolvedor Full-stack
+- 🔭 Desenvolvedor Full-Stack
   
  
 - 🌱 Constante aprendizado 
