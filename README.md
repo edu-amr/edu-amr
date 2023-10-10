@@ -3,13 +3,17 @@
 ### <div align="center">Olá eu me chamo Eduardo 👨‍💻, Atualmente estou fazendo o curso tecnólogo de Sistemas Para Internet pela Universidade do Vale do Itajaí (2021).</div>  
   
 
-- 🔭 Desenvolvedor Full-Stack
-  
- 
-- 🌱 Constante aprendizado 
-  
-
-- 🧩 Adoro ajudar e resolver problemas 
+- 🔭 Experiente e talentoso desenvolvedor Full-Stack
+- 
+- 🌱 Comprometido com um constante aprendizado e evolução
+- 
+- 🧩 Entusiasta em ajudar e resolver complexos problemas com maestria
+- 
+- 🚀 Apaixonado por tecnologia e inovação
+- 
+- 🎯 Focado em alcançar excelência no desenvolvimento Full-Stack
+- 
+- 💡 Criativo e proativo na busca por soluções eficazes
 
 
 ## Meu conjunto de habilidades 
