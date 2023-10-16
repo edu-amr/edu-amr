@@ -72,10 +72,10 @@ to the lives of several people.
 
 <div align="center">
 
-[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/arthurfiorette)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/arthurfiorette)
-[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/339896687466381312)
-[![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://contato@arthur.place)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/arthurfiorette)
+[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/eduardo-amaro-maciel)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/Edu_04x)
+[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/1126226601181462669)
+[![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://eduardo.amaro164@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/eduardo-amaro-maciel)
 
 </div>
