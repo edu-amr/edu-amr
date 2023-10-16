@@ -20,6 +20,8 @@ to the lives of several people.
 ![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![ReactQuery](https://img.shields.io/badge/React%20Query-black?style=flat-square&logo=react-query)
+![ReactHookForm](https://img.shields.io/badge/React%20Hook%20Form-black?style=flat-square&logo=react-hook-form)
+![Zod](https://img.shields.io/badge/Zod-black?style=flat-square&logo=zod&logoColor=993399)
 ![Next](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js)
 ![Alpine](https://img.shields.io/badge/Alpine-black?style=flat-square&logo=alpine.js)
 ![Vitest](https://img.shields.io/badge/Vitest-black?style=flat-square&logo=vitest)
