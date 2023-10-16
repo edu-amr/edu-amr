@@ -31,6 +31,7 @@ to the lives of several people.
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![Yarn](https://img.shields.io/badge/Yarn-black?style=flat-square&logo=yarn)
+![PNPM](https://img.shields.io/badge/PNPM-black?style=flat-square&logo=pnpm)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=EA2845)
 ![Npm](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm)
 ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql)
