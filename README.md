@@ -48,24 +48,16 @@ to the lives of several people.
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![Axios](https://img.shields.io/badge/Axios-black?style=flat-square&logo=axios)
 ![Filezilla](https://img.shields.io/badge/Filezilla-black?style=flat-square&logo=filezilla&logoColor=red)
-
-<span title="Yeah i know">
-  
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows&logoColor=0174CF)
-</span> <span title="Linux with games">
 ![Wsl](https://img.shields.io/badge/Wsl-black?style=flat-square&logo=linux) 
 
-</span>
-
-<span title="I use brave, btw"> ![Brave](https://img.shields.io/badge/Brave-black?style=flat-square&logo=brave) </span>
-[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/arthurfiorette)
-[![Gitlab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab)](https://gitlab.com/arthurfiorette)</div>
-
+</div>
 <br />
 <br />
 
 <div align="center">
 
+[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/arthurfiorette)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/arthurfiorette)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/339896687466381312)
 [![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://contato@arthur.place)
