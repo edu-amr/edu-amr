@@ -50,6 +50,7 @@ to the lives of several people.
 ![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
+![DaisyUI](https://img.shields.io/badge/Daisy%20UI-black?style=flat-square&logo=daisyui)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-black?style=flat-square&logo=mui)
 ![AntDesign](https://img.shields.io/badge/Ant%20Design-black?style=flat-square&logo=ant-design)
 ![UIKit](https://img.shields.io/badge/UIKit-black?style=flat-square&logo=uikit)
