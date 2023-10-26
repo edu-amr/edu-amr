@@ -49,6 +49,7 @@ to the lives of several people.
 ![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
+![MaterialUI](https://img.shields.io/badge/Material%20UI-black?style=flat-square&logo=mui)
 ![UIKit](https://img.shields.io/badge/UIKit-black?style=flat-square&logo=uikit)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
 ![ChakraUI](https://img.shields.io/badge/Chakra%20UI-black?style=flat-square&logo=Chakra-UI)
