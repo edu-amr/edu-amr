@@ -29,6 +29,7 @@ to the lives of several people.
 ![Zod](https://img.shields.io/badge/Zod-black?style=flat-square&logo=zod&logoColor=993399)
 ![Next](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify)
 ![Alpine](https://img.shields.io/badge/Alpine-black?style=flat-square&logo=alpine.js)
 ![Vitest](https://img.shields.io/badge/Vitest-black?style=flat-square&logo=vitest)
 ![StoryBook](https://img.shields.io/badge/StoryBook-black?style=flat-square&logo=storybook)
