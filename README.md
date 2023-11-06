@@ -26,6 +26,7 @@ to the lives of several people.
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma)
 ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=EA2845)
