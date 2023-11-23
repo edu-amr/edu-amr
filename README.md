@@ -38,6 +38,8 @@ to the lives of several people.
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+
 
 </div>
 <br />
