@@ -15,19 +15,15 @@ to the lives of several people.
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=993399)
-![StoryBook](https://img.shields.io/badge/StoryBook-black?style=flat-square&logo=storybook)
-![Nest](https://img.shields.io/badge/Nest-black?style=flat-square&logo=nestjs&logoColor=EA2845)
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![Supabase](https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase)
-![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma)
 ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=EA2845)
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress)
