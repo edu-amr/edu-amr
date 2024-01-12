@@ -17,9 +17,9 @@ to the lives of several people.
 
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![Next](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js)
 ![Nest](https://img.shields.io/badge/Nest-black?style=flat-square&logo=nestjs&logoColor=EA2845)
+![Next](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=EA2845)
