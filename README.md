@@ -30,6 +30,8 @@ to the lives of several people.
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Power Bi](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=Powerbi)
+![SQL](https://img.shields.io/badge/SQLServer-black?style=flat-square&logo=MicrosoftSQLServer)
 
 
 </div>
