@@ -21,17 +21,18 @@ to the lives of several people.
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js)
 ![Nest](https://img.shields.io/badge/Nest-black?style=flat-square&logo=nestjs&logoColor=EA2845)
+![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=EA2845)
+![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-black?style=flat-square&logo=MUI)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass)
-![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=EA2845)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+![Azure](https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoft-azure&logoColor=2496ED)
 
 </div>
 <br />
