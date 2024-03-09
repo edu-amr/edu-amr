@@ -17,25 +17,23 @@ to the lives of several people.
 
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
-![Nest](https://img.shields.io/badge/Nest-black?style=flat-square&logo=nestjs&logoColor=EA2845)
-![Next](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js)
+![Nest](https://img.shields.io/badge/Nest-black?style=flat-square&logo=nestjs&logoColor=EA2845)
+![MaterialUI](https://img.shields.io/badge/Material%20UI-black?style=flat-square&logo=MUI)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=EA2845)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
-![Actions](https://img.shields.io/badge/Actions-black?style=flat-square&logo=github-actions)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![Power Bi](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=Powerbi)
-![SQL](https://img.shields.io/badge/SQLServer-black?style=flat-square&logo=MicrosoftSQLServer)
-
+![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
 </div>
-<br />
 <br />
 
 <div align="center">
