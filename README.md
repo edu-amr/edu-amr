@@ -15,8 +15,8 @@ to the lives of several people.
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp)
-![SQLServer](https://img.shields.io/badge/SQL%20Server-black?style=flat-square&logo=microsoft%20sql%20server)
+![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp&logoColor=purple)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=EA2845)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
