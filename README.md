@@ -15,24 +15,20 @@ to the lives of several people.
 
 <div align="center">
 
+![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-black?style=flat-square&logo=microsoft%20sql%20server)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js)
-![Nest](https://img.shields.io/badge/Nest-black?style=flat-square&logo=nestjs&logoColor=EA2845)
-![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=EA2845)
+![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-black?style=flat-square&logo=MUI)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
-![Azure](https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoft-azure&logoColor=2496ED)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 
 </div>
 <br />
