@@ -24,7 +24,6 @@ to the lives of several people.
 ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-black?style=flat-square&logo=postgresql)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=red)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-black?style=flat-square&logo=MUI)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
