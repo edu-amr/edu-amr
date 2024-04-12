@@ -22,7 +22,6 @@ to the lives of several people.
 ![Next](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js)
 ![Nest](https://img.shields.io/badge/Nest-black?style=flat-square&logo=nestjs&logoColor=E0234E)
 ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-black?style=flat-square&logo=postgresql)
-![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=red)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass)
