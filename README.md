@@ -23,7 +23,6 @@ to the lives of several people.
 ![Nest](https://img.shields.io/badge/Nest-black?style=flat-square&logo=nestjs&logoColor=E0234E)
 ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-black?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-black?style=flat-square&logo=DigitalOcean)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=red)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-black?style=flat-square&logo=MUI)
