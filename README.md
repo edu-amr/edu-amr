@@ -23,7 +23,7 @@ to the lives of several people.
 ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=Csharp&logoColor=purple)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=red)
 ![.NET](https://img.shields.io/badge/.NET-black?style=flat-square&logo=dotnet&logoColor=purple)
-![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=red)
+![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=Cypress)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-black?style=flat-square&logo=MUI)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
