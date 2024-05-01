@@ -26,6 +26,8 @@ to the lives of several people.
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=Cypress)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-black?style=flat-square&logo=MUI)
+![RadixUI](https://img.shields.io/badge/Rdix%20UI-black?style=flat-square&logo=radix-ui)
+![Storybook](https://img.shields.io/badge/Storybook-black?style=flat-square&logo=storybook)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
