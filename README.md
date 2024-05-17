@@ -29,7 +29,6 @@ to the lives of several people.
 ![RadixUI](https://img.shields.io/badge/Radix%20UI-black?style=flat-square&logo=radix-ui)
 ![Storybook](https://img.shields.io/badge/Storybook-black?style=flat-square&logo=storybook)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 
 </div>
