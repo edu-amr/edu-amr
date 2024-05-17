@@ -28,6 +28,8 @@ to the lives of several people.
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-black?style=flat-square&logo=MUI)
 ![RadixUI](https://img.shields.io/badge/Radix%20UI-black?style=flat-square&logo=radix-ui)
 ![Storybook](https://img.shields.io/badge/Storybook-black?style=flat-square&logo=storybook)
+![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress)
+![Directus](https://img.shields.io/badge/Directus-black?style=flat-square&logo=directus&logoColor=6644FF)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
