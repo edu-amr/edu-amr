@@ -7,7 +7,7 @@ I'm passionate about the art of open sourcing, and how it connects everyone arou
 world and brings them to a better place. Aside from coding, I love mountain bike, counter
 strike, volleyball and to help beginners with code.
 
-I'm 21 years old and dedicated to full stack development. I started programming somewhere in
+I'm 22 years old and dedicated to full stack development. I started programming somewhere in
 end of 2018 with C++. I am currently finishing my degree in systems development and today I develop remarkable experiences that added value
 to the lives of several people.
 
