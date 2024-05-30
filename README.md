@@ -29,7 +29,6 @@ to the lives of several people.
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=red)
-![TestingLibrary](https://img.shields.io/badge/Testing%20Library-black?style=flat-square&logo=testing-library)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
