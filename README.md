@@ -2,14 +2,14 @@
 
 <br />
 
-My name is <b>Eduardo Amaro</b>, I am a full-stack developer living in Brazil 🇧🇷.
-I'm passionate about the art of open sourcing, and how it connects everyone around the
-world and brings them to a better place. Aside from coding, I love mountain bike, counter
-strike, volleyball and to help beginners with code.
+My name is Eduardo Amaro, and I am a full-stack developer living in Brazil 🇧🇷. 
+I'm passionate about open-source development and how it connects people around the world, making it a better place. 
+Besides coding, I love mountain biking, playing Counter-Strike, volleyball, and helping beginners with code.
 
-I'm 22 years old and dedicated to full stack development. I started programming somewhere in
-end of 2018 with C++. I am currently finishing my degree in systems development and today I develop remarkable experiences that added value
-to the lives of several people.
+I'm 22 years old and dedicated to full-stack development. 
+I started programming around the end of 2018 with C++. 
+I am currently finishing my degree in systems development, and today 
+I create remarkable experiences that add value to many people's lives.
 
 <br />
 
