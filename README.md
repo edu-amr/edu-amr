@@ -17,6 +17,7 @@ Tenho 22 anos e sou dedicado ao desenvolvimento Front-End. Comecei a programar n
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-black?style=flat-square&logo=MUI)
 ![RadixUI](https://img.shields.io/badge/Radix%20UI-black?style=flat-square&logo=radix-ui)
+![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=C41DE9)
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=red)
 ![Storybook](https://img.shields.io/badge/Storybook-black?style=flat-square&logo=storybook)
