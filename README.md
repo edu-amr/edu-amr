@@ -2,15 +2,9 @@
 
 <br />
 
-My name is Eduardo Amaro, and I am a full-stack developer living in Brazil 🇧🇷. 
-I'm passionate about open-source development and how it connects people around the world, making it a better place. 
-Besides coding, I love mountain biking, playing Counter-Strike, volleyball, and helping beginners with code.
+Meu nome é Eduardo Amaro, sou um desenvolvedor Front-End morando no Brasil 🇧🇷. Sou apaixonado por desenvolvimento open-source e como ele conecta pessoas ao redor do mundo, tornando-o um lugar melhor. Além de programar, adoro andar de mountain bike, jogar Counter-Strike, praticar vôlei e ajudar iniciantes com código.
 
-I'm 22 years old and dedicated to full-stack development. 
-I started programming around the end of 2018 with C++. 
-I am currently finishing my degree in systems development, and today 
-I create remarkable experiences that add value to many people's lives.
-
+Tenho 22 anos e sou dedicado ao desenvolvimento Front-End. Comecei a programar no final de 2018 com C++. Atualmente, estou terminando minha graduação em desenvolvimento de sistemas e, hoje, crio experiências notáveis que agregam valor à vida de muitas pessoas.
 <br />
 
 <div align="center">
