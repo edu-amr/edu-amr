@@ -20,8 +20,6 @@ Tenho 22 anos e sou dedicado ao desenvolvimento Front-End. Comecei a programar n
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=red)
 ![Storybook](https://img.shields.io/badge/Storybook-black?style=flat-square&logo=storybook)
-![PostgresSQL](https://img.shields.io/badge/PostgresSQL-black?style=flat-square&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
