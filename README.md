@@ -20,7 +20,6 @@ Tenho 22 anos e sou dedicado ao desenvolvimento Front-End. Comecei a programar n
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=C41DE9)
 ![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square&logo=githubactions)
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress)
-![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=red)
 ![Storybook](https://img.shields.io/badge/Storybook-black?style=flat-square&logo=storybook)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
@@ -33,7 +32,7 @@ Tenho 22 anos e sou dedicado ao desenvolvimento Front-End. Comecei a programar n
 <div align="center">
 
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/eduardo-amaro-maciel)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/Edu_04x)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://twitter.com/Edu_04x)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/1126226601181462669)
 [![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://edu.amr@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/edu-amr)
