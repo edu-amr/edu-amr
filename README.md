@@ -2,9 +2,9 @@
 
 <br />
 
-Meu nome é Eduardo Amaro, sou um desenvolvedor Front-End morando no Brasil 🇧🇷. Sou apaixonado por desenvolvimento open-source e como ele conecta pessoas ao redor do mundo, tornando-o um lugar melhor. Além de programar, adoro andar de mountain bike, jogar Counter-Strike, praticar vôlei e ajudar iniciantes com código.
+Meu nome é Eduardo, sou um desenvolvedor Front-End morando no Brasil 🇧🇷. Meu foco principal é voltado para o desenvolvimento open-source e como ele conecta pessoas ao redor do mundo. Além de programar, adoro andar de bike, tocar meu baixo e ajudar iniciantes com código.
 
-Tenho 22 anos e sou dedicado ao desenvolvimento Front-End. Comecei a programar no final de 2018 com C++. Atualmente, estou terminando minha graduação em desenvolvimento de sistemas e, hoje, crio experiências notáveis que agregam valor à vida de muitas pessoas.
+Tenho 22 anos e sou dedicado ao desenvolvimento Front-End. Comecei a programar no final de 2018 com C++. Atualmente, estou terminando minha graduação em desenvolvimento de sistemas, e, hoje crio experiências notáveis que agregam valor à vida de muitas pessoas.
 <br />
 
 <div align="center">
