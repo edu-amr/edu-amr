@@ -9,32 +9,35 @@ Tenho 22 anos e sou dedicado ao desenvolvimento Front-End. Comecei a programar n
 
 <div align="center">
 
-![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
-![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
+![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
+![Nest](https://img.shields.io/badge/Nest-black?style=flat-square&logo=nestjs&logoColor=E0234E)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-black?style=flat-square&logo=MUI)
 ![RadixUI](https://img.shields.io/badge/Radix%20UI-black?style=flat-square&logo=radix-ui)
-![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=C41DE9)
-![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square&logo=githubactions)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-8A2BE2?style=flat-square&2F&logo=shadcnui&color=000)
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress)
 ![Storybook](https://img.shields.io/badge/Storybook-black?style=flat-square&logo=storybook)
+![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma)
+![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square&logo=githubactions)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![PostgresSQL](https://img.shields.io/badge/PostgresSQL-black?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css&logoColor=1572B6)
+![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 
 </div>
 <br />
 
 <div align="center">
 
-[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/eduardo-amaro-maciel)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://twitter.com/Edu_04x)
+[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/edu-amr)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://twitter.com/edu_amr_)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/1126226601181462669)
 [![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://edu.amr@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/edu-amr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn)](https://linkedin.com/in/edu-amr)
 
 </div>
