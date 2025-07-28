@@ -22,6 +22,7 @@ Tenho 22 anos e sou dedicado ao desenvolvimento Front-End. Comecei a programar n
 ![Storybook](https://img.shields.io/badge/Storybook-black?style=flat-square&logo=storybook)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma)
 ![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-black?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
